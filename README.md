@@ -19,17 +19,17 @@ other person in the group should have.)
 As with all things this project is provided AS-IS with no warranty whatsoever, it is a DIY project so please use your head when utilizing it.
 
 Parts list:
-Arduino board compatible with the I2C protocol
-ADS1115 compatible DAC
-SSD1306 compatible display (128 X 64 preferred)
-A toggle or locking switch for main power on
-A monetary push button for controlling functions
-A battery to supply power for the Arduino (5v to 6V is best but reference your boards vin range)
+Arduino board compatible with the I2C protocol --- 
+ADS1115 compatible DAC --- 
+SSD1306 compatible display (128 X 64 preferred) --- 
+A toggle or locking switch for main power on --- 
+A monetary push button for controlling functions --- 
+A battery to supply power for the Arduino (5v to 6V is best but reference your boards vin range) --- 
 Oxygen sensor (An aftermarket Teledyne R22S or compatible would be recommended. If you want to connect your sensor remotely a Teledyne R17S or 
-compatible along with a cord and jack for plugging it in.)
-Wiring for making connections
-A hobby box for enclosing the project
-A Piezo Electric speaker (Optional)
+compatible along with a cord and jack for plugging it in.) --- 
+Wiring for making connections --- 
+A hobby box for enclosing the project --- 
+A Piezo Electric speaker (Optional) --- 
 
 This is a work in progress, more information will be added 
 
