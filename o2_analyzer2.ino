@@ -25,6 +25,8 @@
 #include <Adafruit_ADS1015.h>
 #include <EEPROM.h>
 #include <RunningAverage.h>
+#define SCREEN_WIDTH 128 // OLED display width, in pixels
+#define SCREEN_HEIGHT 64 // OLED display height, in pixels
 
 #define RA_SIZE 20
 RunningAverage RA(RA_SIZE);
