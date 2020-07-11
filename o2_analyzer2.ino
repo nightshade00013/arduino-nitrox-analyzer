@@ -34,8 +34,7 @@ RunningAverage RA(RA_SIZE);
 Adafruit_ADS1115 ads(0x48);
 
 #define OLED_RESET 4
-Adafruit_SSD1306 display(OLED_RESET);
-
+Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, OLED_RESET);
 const int buttonPin=2; // push button
 const int buzzer = 9; // buzzer
 const int ledPin = 13; // led
